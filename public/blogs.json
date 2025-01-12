@@ -1,0 +1,53 @@
+  [
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/xXm1551/ella-jardim-M0zs81-FNm6s-unsplash.jpg",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "author_img": "https://i.ibb.co.com/0Xq9QWr/unnamed.jpg",
+      "posted_date": "2023-11-15",
+      "reading_time": 5,
+      "hashtags": ["mystery", "detective", "classic"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/t8G55Bz/arnel-hasanovic-MNd-Rka1o0-Q-unsplash.jpg",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "author_img": "https://i.ibb.co.com/z5HwFm8/lum3n-RBu-Q2-PK-L8-unsplash.jpg",
+      "posted_date": "1954-07-29",
+      "reading_time": 48,
+     
+      "hashtags": ["fantasy", "epic", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/z5HwFm8/lum3n-RBu-Q2-PK-L8-unsplash.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "https://i.ibb.co.com/ZN872q0/freestocks-Ofa-DD5o8hpk-unsplash.jpg",
+      "posted_date": "1813-01-28",
+      "reading_time": 3,
+      "hashtags": ["romance", "classic", "literature"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/ZN872q0/freestocks-Ofa-DD5o8hpk-unsplash.jpg",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "author_img": "https://i.ibb.co.com/vdwhW6s/fabian-moller-g-I7zgb80-QWY-unsplash.jpg",
+      "posted_date": "1979-10-12",
+      "reading_time": 2,
+      "hashtags": ["sci-fi", "humor", "absurd"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/vdwhW6s/fabian-moller-g-I7zgb80-QWY-unsplash.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "https://i.ibb.co.com/0Xq9QWr/unnamed.jpg",
+      "posted_date": "1960-07-11",
+      "reading_time": 4,
+      "hashtags": ["classic", "literature", "social-justice"]
+    }
+  ]
